@@ -1,0 +1,90 @@
+# Archive files
+*.zip
+*.tar
+*.tar.gz
+*.rar
+*.7z
+
+# Image files (optional: ignore if they're large/generated)
+*.png
+*.jpg
+*.jpeg
+*.gif
+*.bmp
+*.tiff
+*.svg
+
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Distribution / packaging
+build/
+dist/
+*.egg-info/
+
+# Virtual environments
+.venv/
+venv/
+env/
+ENV/
+.conda/
+*.conda
+*.env
+
+# Jupyter Notebook checkpoints
+.ipynb_checkpoints/
+
+# Pytest / Coverage
+.cache/
+.coverage
+htmlcov/
+.tox/
+nosetests.xml
+coverage.xml
+*.cover
+
+# System / Editor files
+.DS_Store
+Thumbs.db
+*.swp
+*.swo
+*.bak
+
+# Logs
+*.log
+logs/
+
+# Secrets and environment variables
+.env
+.env.*
+
+# Docker files
+*.pid
+*.tar
+*.sock
+docker-compose.override.yml
+
+# VSCode / IDEs
+.vscode/
+.idea/
+
+# Data & models (optional, for ML/DS projects)
+data/
+models/
+checkpoints/
+*.ckpt
+*.pth
+*.pt
+*.onnx
+
+# Pip wheels
+*.whl
+
+# Jupyter outputs
+*.out
+*.pdf
+
+# PyCharm
+*.iml
