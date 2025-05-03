@@ -71,8 +71,9 @@ docker-compose.override.yml
 .idea/
 
 # Data & models (optional, for ML/DS projects)
-data/
+data/*
 models/
+gemma-2b-finetuned/
 checkpoints/
 *.ckpt
 *.pth
