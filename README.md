@@ -1,3 +1,6 @@
+### Note:
+Due to hardware limitations, I can only train small models that unfortunately don’t generate precise enough feedback for AgentDriverOS to function optimally. As a result, active development on this project is currently paused. However, if anyone is interested in collaborating to improve or continue this work, I am open and happy to collaborate!
+
 # AgentDriverOS: Open-Source Integration for Agent-Driver
 
 **AgentDriverOS** is an open-source project that allows you to use open-source LLM models from Hugging Face to interact with and test the [Agent-Driver: A Language Agent for Autonomous Driving](https://github.com/USC-GVL/Agent-Driver) system. This project enables you to leverage free, open-source LLMs for driver assistance in autonomous driving.
